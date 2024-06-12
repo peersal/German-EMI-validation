@@ -1,2 +1,2 @@
 # German-EMI-validation
-This Repository documents the progress of validation the German Evidence Minus Intuition score
+This Repository documents the progress the validation process of the German Evidence Minus Intuition score
