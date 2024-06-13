@@ -1,7 +1,7 @@
 # German-EMI-Validation
 
 ## Overview
-Welcome to the German-EMI-Validation repository! This repository documents the progress of the validation process for the German Evidence Minus Intuition (EMI) score.
+Welcome to the German-EMI-Validation repository! This repository documents the progress of the validation process for the German Evidence Minus Intuition (EMI) score. The English version was published from Segun Aroyehun, a lot of code is refactored from his repositroy [English EMI](https://zenodo.org/records/11127530)
 
 ## Project Description
 In this project, we utilize two datasets from the German Parliament to train a word2vec model. This model helps vectorize two dictionaries: one associated with evidence-based language and the other with intuition-based language. By calculating the distance between German parliamentary speeches and these dictionaries, we ultimately derive an Evidence Minus Intuition (EMI) score.
