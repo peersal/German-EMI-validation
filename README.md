@@ -12,7 +12,7 @@ The project employs the following datasets:
 1. **German Parliament Data (1867 to 1942)**: [GerParCor](https://github.com/texttechnologylab/GerParCor?tab=readme-ov-file)
 2. **German Parliament Data (1949 to 2021)**: [Open Discourse](https://github.com/open-discourse/open-discourse)
 
-Find all of the datasets of this project here OSF link to come 
+Find all of the datasets of this project [here](https://osf.io/kmd4h/) 
 
 
 ## Methodology
